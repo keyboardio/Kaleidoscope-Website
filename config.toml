@@ -1,0 +1,33 @@
+baseURL = "http://kaleidoscope.keyboard.io/"
+languageCode = "en-us"
+title = "Kaleidoscope"
+theme = "cupper-hugo-theme"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+  footer = "[Impressum](/impressum)"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Keyboards"
+    url = "/keyboards/"
+    weight = 2
+  [[menu.nav]]
+    name = "Articles"
+    url = "/articles/"
+    weight = 3
+  [[menu.nav]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5
