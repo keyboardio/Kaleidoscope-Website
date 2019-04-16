@@ -1,4 +1,4 @@
-baseURL = "http://kaleidoscope.keyboard.io/"
+baseURL = "https://kaleidoscope.keyboard.io/"
 languageCode = "en-us"
 title = "Kaleidoscope"
 theme = "cupper-hugo-theme"
