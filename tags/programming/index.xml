@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programming on Kaleidoscope</title>
-    <link>https://kaleidoscope.keyboard.io/tags/programming/</link>
-    <description>Recent content in Programming on Kaleidoscope</description>
+    <title>programming on Kaleidoscope</title>
+    <link>http://kaleidoscope.keyboard.io/tags/programming/</link>
+    <description>Recent content in programming on Kaleidoscope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Apr 2019 08:33:45 +0200</lastBuildDate>
     
-	<atom:link href="https://kaleidoscope.keyboard.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kaleidoscope.keyboard.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Porting to a new keyboard</title>
-      <link>https://kaleidoscope.keyboard.io/articles/hardware-porting/</link>
+      <link>http://kaleidoscope.keyboard.io/articles/hardware-porting/</link>
       <pubDate>Tue, 16 Apr 2019 08:33:45 +0200</pubDate>
       
-      <guid>https://kaleidoscope.keyboard.io/articles/hardware-porting/</guid>
+      <guid>http://kaleidoscope.keyboard.io/articles/hardware-porting/</guid>
       <description>The goal of this guide is to show you how to add support for a new keyboard to Kaleidoscope. It doesn&amp;rsquo;t go further than that: this guide doesn&amp;rsquo;t help you maintain an hardware plugin in an external repository, nor does it document everything that makes for a good pull request for a keyboard. It goes far enough to have it working, in a quick and dirty way, anything further than that will be the topic of another guide.</description>
     </item>
     

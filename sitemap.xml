@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kaleidoscope.keyboard.io/articles/hardware-porting/</loc>
+    <loc>http://kaleidoscope.keyboard.io/articles/</loc>
     <lastmod>2019-04-16T08:33:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kaleidoscope.keyboard.io/articles/</loc>
+    <loc>http://kaleidoscope.keyboard.io/</loc>
     <lastmod>2019-04-16T08:33:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kaleidoscope.keyboard.io/tags/guide/</loc>
-    <lastmod>2019-04-16T08:33:45+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kaleidoscope.keyboard.io/impressum/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kaleidoscope.keyboard.io/</loc>
+    <loc>http://kaleidoscope.keyboard.io/articles/hardware-porting/</loc>
     <lastmod>2019-04-16T08:33:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kaleidoscope.keyboard.io/keyboards/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kaleidoscope.keyboard.io/tags/programming/</loc>
+    <loc>http://kaleidoscope.keyboard.io/tags/</loc>
     <lastmod>2019-04-16T08:33:45+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kaleidoscope.keyboard.io/tags/</loc>
+    <loc>http://kaleidoscope.keyboard.io/tags/guide/</loc>
     <lastmod>2019-04-16T08:33:45+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaleidoscope.keyboard.io/tags/programming/</loc>
+    <lastmod>2019-04-16T08:33:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaleidoscope.keyboard.io/impressum/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaleidoscope.keyboard.io/keyboards/</loc>
   </url>
   
 </urlset>
